@@ -25,7 +25,7 @@ The goal is to design and implement a Vehicle Rental Management System that prov
 
 ## Class description 
 
-- Vehicle class: 
+### Vehicle class: 
 
 Each vehicle has the following attributes:  
 
